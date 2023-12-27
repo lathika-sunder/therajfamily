@@ -1,0 +1,505 @@
+[
+  {
+    "id": "1",
+    "type": "male",
+    "data": {
+      "label": {
+        "text": "Muthukrishnan Pillai",
+        "image": "greatgrandpa1"
+      }
+    },
+    "position": { "x": 1100, "y": 0 },
+    "style": {
+      "backgroundColor": "#161977",
+      "color": "white",
+      "height": "34vh",
+      "width": "28vh"
+    }
+  },
+  {
+    "id": "2",
+    "type": "female",
+    "data": {
+      "label": {
+        "text": "Rajalakshmi Ammal",
+        "image": "greatgrandma1"
+      }
+    },
+    "position": { "x": 950, "y": 30 },
+    "style": { "backgroundColor": "#ff0072", "color": "white" }
+  },
+  {
+    "id": "3",
+    "type": "female",
+    "data": {
+      "label": {
+        "text": "Ammani Ammal",
+        "image": "greatgrandma1"
+      }
+    },
+    "position": { "x": 1300, "y": 30 },
+    "style": { "backgroundColor": "#ff0072", "color": "white" }
+  },
+  {
+    "id": "4",
+    "type": "female",
+    "data": {
+      "label": {
+        "text": "daughter"
+      }
+    },
+    "position": { "x": 750, "y": 300 }
+  },
+  {
+    "id": "5",
+    "type": "male",
+    "data": {
+      "label": {
+        "text": "T M Raj",
+        "image": "man1"
+      }
+    },
+    "position": { "x": 450, "y": 300 }
+  },
+  {
+    "id": "6",
+    "type": "female",
+    "data": {
+      "label": {
+        "text": "Pushpam",
+        "image": "woman1"
+      }
+    },
+    "position": { "x": 300, "y": 300 }
+  },
+  {
+    "id": "7",
+    "type": "male",
+    "data": {
+      "label": {
+        "text": "M. Dhamodhara Raj",
+        "image": "man1"
+      }
+    },
+    "position": { "x": 750, "y": 300 }
+  },
+  {
+    "id": "12",
+    "type": "female",
+    "data": {
+      "label": {
+        "text": "ThulasiBai Ammal",
+        "image": "woman1"
+      }
+    },
+    "position": { "x": 900, "y": 300 }
+  },
+  {
+    "id": "8",
+    "type": "male",
+    "data": {
+      "label": {
+        "text": "M. Rajagopal",
+        "image": "man1"
+      }
+    },
+    "position": { "x": 1150, "y": 300 }
+  },
+  {
+    "id": "13",
+    "type": "female",
+    "data": {
+      "label": {
+        "text": "Sarswathi",
+        "image": "woman1"
+      }
+    },
+    "position": { "x": 1300, "y": 300 }
+  },
+  {
+    "id": "9",
+    "type": "male",
+    "data": {
+      "label": {
+        "text": "Balaraman Raj",
+        "image": "man1"
+      }
+    },
+    "position": { "x": 1550, "y": 300 }
+  },
+  {
+    "id": "14",
+    "type": "female",
+    "data": {
+      "label": {
+        "text": "Manoranjitham",
+        "image": "woman1"
+      }
+    },
+    "position": { "x": 1700, "y": 300 }
+  },
+  {
+    "id": "10",
+    "type": "female",
+    "data": {
+      "label": {
+        "text": "Babna",
+        "image": "woman1"
+      }
+    },
+    "position": { "x": 1950, "y": 300 }
+  },
+  {
+    "id": "15",
+    "type": "male",
+    "data": {
+      "label": {
+        "text": "Balaraman Raj",
+        "image": "man1"
+      }
+    },
+    "position": { "x": 2100, "y": 300 }
+  },
+  {
+    "id": "11",
+    "type": "female",
+    "data": {
+      "label": {
+        "text": "Ashtalakshmi",
+        "image": "woman1"
+      }
+    },
+    "position": { "x": 2350, "y": 300 }
+  },
+  {
+    "id": "16",
+    "type": "male",
+    "data": {
+      "label": {
+        "text": "Manikandan",
+        "image": "man1"
+      }
+    },
+    "position": { "x": 2500, "y": 300 }
+  },
+  {
+    "id": "17",
+    "type": "male",
+    "data": {
+      "label": {
+        "text": "Chandran",
+        "image": "man1"
+      }
+    },
+    "position": { "x": 300, "y": 600 }
+  },
+  {
+    "id": "18",
+    "type": "female",
+    "data": {
+      "label": {
+        "text": "Jamuna",
+        "image": "woman1"
+      }
+    },
+    "position": { "x": 50, "y": 600 }
+  },
+  {
+    "id": "19",
+    "type": "female",
+    "data": {
+      "label": {
+        "text": "Susila",
+        "image": "woman1"
+      }
+    },
+    "position": { "x": -200, "y": 600 }
+  },
+  {
+    "id": "20",
+    "type": "female",
+    "data": {
+      "label": {
+        "text": "Padmini",
+        "image": "woman1"
+      }
+    },
+    "position": { "x": -450, "y": 600 }
+  },
+  {
+    "id": "21",
+    "type": "female",
+    "data": {
+      "label": {
+        "text": "Vimala",
+        "image": "woman1"
+      }
+    },
+    "position": { "x": -700, "y": 600 }
+  },
+  {
+    "id": "22",
+    "type": "female",
+    "data": {
+      "label": {
+        "text": "Kasthuri",
+        "image": "woman1"
+      }
+    },
+    "position": { "x": -950, "y": 600 }
+  },
+  {
+    "id": "22",
+    "type": "male",
+    "data": {
+      "label": {
+        "text": "Muthukrishnan",
+        "image": "boy1"
+      }
+    },
+    "position": { "x": 200, "y": 1800 }
+  },
+  {
+    "id": "23",
+    "type": "male",
+    "data": {
+      "label": {
+        "text": "Kannan",
+        "image": "boy1"
+      }
+    },
+    "position": { "x": 450, "y": 1800 }
+  },
+  {
+    "id": "24",
+    "type": "male",
+    "data": {
+      "label": {
+        "text": "Balakrishnan",
+        "image": "boy1"
+      }
+    },
+    "position": { "x": 700, "y": 1800 }
+  },
+  {
+    "id": "25",
+    "type": "male",
+    "data": {
+      "label": {
+        "text": "Vittal",
+        "image": "boy1"
+      }
+    },
+    "position": { "x": 950, "y": 1800 }
+  },
+  {
+    "id": "26",
+    "type": "female",
+    "data": {
+      "label": {
+        "text": "Sulochana",
+        "image": "girl1"
+      }
+    },
+    "position": { "x": 1200, "y": 1800 }
+  },
+  {
+    "id": "27",
+    "type": "female",
+    "data": {
+      "label": {
+        "text": "Bama",
+        "image": "girl1"
+      }
+    },
+    "position": { "x": 1450, "y": 1800 }
+  },
+  {
+    "id": "28",
+    "type": "female",
+    "data": {
+      "label": {
+        "text": "Juna",
+        "image": "girl1"
+      }
+    },
+    "position": { "x": 1700, "y": 1800 }
+  },
+  {
+    "id": "29",
+    "type": "female",
+    "data": {
+      "label": {
+        "text": "Sarojini",
+        "image": "girl1"
+      }
+    },
+    "position": { "x": 1100, "y": 1200 }
+  },
+  {
+    "id": "30",
+    "type": "male",
+    "data": {
+      "label": {
+        "text": "Madhavan",
+        "image": "boy1"
+      }
+    },
+    "position": { "x": 1350, "y": 1200 }
+  },
+  {
+    "id": "31",
+    "type": "male",
+    "data": {
+      "label": {
+        "text": "Janarthanam",
+        "image": "boy1"
+      }
+    },
+    "position": { "x": 1700, "y": 1200 }
+  },
+  {
+    "id": "32",
+    "type": "male",
+    "data": {
+      "label": {
+        "text": "Sridar",
+        "image": "boy1"
+      }
+    },
+    "position": { "x": 1950, "y": 1200 }
+  },
+  {
+    "id": "33",
+    "type": "female",
+    "data": {
+      "label": {
+        "text": "Vinoba",
+        "image": "girl1"
+      }
+    },
+    "position": { "x": 2200, "y": 1200 }
+  },
+  {
+    "id": "34",
+    "type": "male",
+    "data": {
+      "label": {
+        "text": "HemaKumar",
+        "image": "boy1"
+      }
+    },
+    "position": { "x": 2450, "y": 1200 }
+  },
+  {
+    "id": "35",
+    "type": "male",
+    "data": {
+      "label": {
+        "text": "Bakthavatcolam",
+        "image": "boy1"
+      }
+    },
+    "position": { "x": 2700, "y": 1200 }
+  },
+
+  {
+    "id": "36",
+    "type": "female",
+    "data": {
+      "label": {
+        "text": "Nirmala",
+        "image": "girl1"
+      }
+    },
+    "position": { "x": 2950, "y": 1200 }
+  },
+  {
+    "id": "37",
+    "type": "female",
+    "data": {
+      "label": {
+        "text": "Neela",
+        "image": "girl1"
+      }
+    },
+    "position": { "x": 3200, "y": 1200 }
+  },
+  {
+    "id": "38",
+    "type": "female",
+    "data": {
+      "label": {
+        "text": "Ravina",
+        "image": "girl1"
+      }
+    },
+    "position": { "x": 3200, "y": 1200 }
+  },
+  {
+    "id": "39",
+    "type": "male",
+    "data": {
+      "label": {
+        "text": "Selvadurai",
+        "image": "boy1"
+      }
+    },
+    "position": { "x": 1950, "y": 600 }
+  },
+  {
+    "id": "40",
+    "type": "male",
+    "data": {
+      "label": {
+        "text": "Nagaraj",
+        "image": "boy1"
+      }
+    },
+    "position": { "x": 2200, "y": 600 }
+  },
+  {
+    "id": "41",
+    "type": "male",
+    "data": {
+      "label": {
+        "text": "Ramani",
+        "image": "boy1"
+      }
+    },
+    "position": { "x": 2700, "y": 600 }
+  },
+  {
+    "id": "42",
+    "type": "male",
+    "data": {
+      "label": {
+        "text": "Sekhar",
+        "image": "boy1"
+      }
+    },
+    "position": { "x": 2700, "y": 900 }
+  },
+  {
+    "id": "43",
+    "type": "male",
+    "data": {
+      "label": {
+        "text": "Bhaskar",
+        "image": "boy1"
+      }
+    },
+    "position": { "x": 2950, "y": 900 }
+  },
+  {
+    "id": "44",
+    "type": "male",
+    "data": {
+      "label": {
+        "text": "Raja",
+        "image": "boy1"
+      }
+    },
+    "position": { "x": 3200, "y": 900 }
+  }
+]
