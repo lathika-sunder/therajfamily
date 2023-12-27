@@ -1,0 +1,26 @@
+
+  .quote-container {
+    text-align: center;
+    margin-top: 3vh;
+    color: aliceblue;
+  }
+  
+  .quote-icon {
+    font-size: 4vh; 
+  }
+  
+  .blockquote {
+    text-align: center;
+    border-left:  1vh solid #333;
+    padding-left: 20px;
+  }
+  
+  blockquote p {
+    font-size: 4.5vh;
+  }
+  
+  blockquote footer {
+    margin-top: 10px;
+    font-style: italic;
+  }
+  

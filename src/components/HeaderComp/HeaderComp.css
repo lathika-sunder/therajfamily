@@ -1,0 +1,56 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1vh;
+  background: #c9ffbf; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #ffafbd,
+    #c9ffbf
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #ffafbd,
+    #c9ffbf
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  color: #000000; /* Change the text color as needed */
+}
+.heading h1 {
+  padding-left: 4vh;
+  margin: 1;
+  font-weight: bold;
+  font-size: 4.4vh;
+}
+
+.navbar nav ul {
+  list-style: none;
+  display: flex;
+  gap: 3vh;
+}
+
+.navbar nav ul li a {
+  text-decoration: none;
+  color: #000000;
+
+  font-size: 16px;
+  transition: color 0.3s ease-in-out;
+}
+
+.navbar nav ul li a:hover {
+  color: #1e9dd3; /* Change the hover color as needed */
+}
+.home h1 {
+  font-size: 2em;
+}
+
+@media (max-width:768px)
+{
+  .login-text{
+    display: none;
+  }
+  .navbar li{
+    display: none;
+  }
+}

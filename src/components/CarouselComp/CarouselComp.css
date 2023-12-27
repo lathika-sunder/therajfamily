@@ -1,0 +1,24 @@
+.carousel-image {
+  height: 50vh;
+  border-radius: 2vh;
+  margin: 10vh;
+  object-fit: cover;
+  box-shadow: 20 20 6vh rgba(0, 0, 0, 0.75);
+}
+
+.carousel {
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  
+}
+
+
+@media (max-width:768px)
+{
+  .carousel-image{
+    width: 70vh;
+  }
+}
+
+

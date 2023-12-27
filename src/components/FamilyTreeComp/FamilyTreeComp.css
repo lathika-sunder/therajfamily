@@ -1,0 +1,72 @@
+.family-tree-comp {
+  background: rgb(0, 0, 0);
+  background-image: url('https://wallpapercave.com/wp/wp3663377.jpg');
+  height: 100vh;
+ 
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.card{
+  img{
+    height: 18vh;
+    
+  }
+}
+.family-tree-comp {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+@media (max-width: 768px) {
+  .family-tree-comp {
+    padding: 10px; /* Adjust as needed */
+  }
+  .card{
+    height: small;
+  }
+}
+
+/* Adjust the styling for the h1 and other elements as needed */
+
+/* Make the ReactFlow container responsive */
+.react-flow-container {
+  width: 100%;
+  height: 100%;
+}
+
+/* Adjust other styles as needed */
+.family-tree-comp {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Add a media query for smaller screens */
+@media (max-width: 768px) {
+  .family-tree-comp {
+    padding: 10px; /* Adjust as needed */
+  }
+}
+
+/* Sticky styling for the top nodes */
+.sticky-nodes {
+  position: sticky;
+  top: 0;
+  z-index: 1; 
+  background-color: black;
+  width: 100%;
+  text-align: center;
+  text-decoration: underline;
+  color: aliceblue;
+}
+
+/* Make the ReactFlow container responsive */
+.react-flow-container {
+  width: 100%;
+  height: 100vh; /* Use 100vh to make the container take up the full viewport height */
+}
